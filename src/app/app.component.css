@@ -1,0 +1,29 @@
+.ncolor{
+    background-color:#2079D1;
+}
+.headercolor{
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+}
+.headercolor img{
+    height: 30px;
+    size: 100px;
+}
+.nav li a {
+    color: white;
+    padding-left: 33px;
+  }
+
+.nav li a:hover {
+    
+       background-color:skyblue;
+       font-size: 15px;
+             height: auto;
+}
+    .nav li a:focus {
+   
+       color: black;
+       font-weight: bold;
+
+}
